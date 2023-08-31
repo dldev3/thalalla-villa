@@ -1,16 +1,12 @@
 import Head from 'next/head'
-import Image from 'next/image'
-import { Inter } from '@next/font/google'
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 import CuriousMinds from '@/components/CuriousMinds';
-import { DatePicker as DP } from 'antd';
 import BookNow from '@/components/BookNow';
 import Describe from '@/components/Describe';
 import Gallery from '@/components/Gallery';
 import Location from '@/components/Location';
 
-const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
@@ -22,14 +18,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-
         <Header />
-
-        {/* landing */}
-        <div>
-          <img id='landing-image' className='w-full h-full' src='/img/landing.jpg' />
-        </div>
-        {/* landing-end */}
         <Describe />
         <Gallery />
         <BookNow />

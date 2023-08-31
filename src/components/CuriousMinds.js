@@ -5,7 +5,7 @@ function CuriousMinds() {
 
         <div className='flex flex-row justify-center bg-prime-bg-beige'>
 
-            <div className='flex flex-col py-40 px-96'>
+            <div className='flex flex-col py-16 px-96'>
                 <div>
                     <h1 className='text-6xl text-prime-green sub-heading'>Curious Minds</h1>
                 </div>

@@ -5,7 +5,7 @@ import { Image } from 'antd';
 function Gallery() {
     return (
         <div className='bg-prime-bg-beige'>
-            <div className='flex flex-col py-40 px-96'>
+            <div className='flex flex-col py-16 px-96'>
                 <div>
                     <h1 className='text-6xl text-prime-green sub-heading'>Must see</h1>
                 </div>

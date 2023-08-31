@@ -13,9 +13,12 @@ module.exports = {
       colors: {
         'prime-bg-beige': '#F2E8CF',
         'prime-green': '#386641',
-        
+
       },
-    },
-    plugins: [],
+      backgroundImage: {
+        'landing': "url('/img/landing1.jpg')",
+      },
+      plugins: [],
+    }
   }
 }
