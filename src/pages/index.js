@@ -6,6 +6,7 @@ import BookNow from '@/components/BookNow';
 import Describe from '@/components/Describe';
 import Gallery from '@/components/Gallery';
 import Location from '@/components/Location';
+import Reviews from '@/components/Reviews';
 
 
 export default function Home() {
@@ -22,6 +23,7 @@ export default function Home() {
         <Describe />
         <Gallery />
         <BookNow />
+        <Reviews />
         <CuriousMinds />
         <Location />
         <Footer />

@@ -11,12 +11,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'prime-bg-beige': '#F2E8CF',
+        // 'prime-bg-beige': '#F2E8CF',
+        'prime-bg-beige': '#E4FDE1',
         'prime-green': '#386641',
 
       },
       backgroundImage: {
-        'landing': "url('/img/landing1.jpg')",
+        'landing': "url('/add/landing2.jpg')",
       },
       plugins: [],
     }

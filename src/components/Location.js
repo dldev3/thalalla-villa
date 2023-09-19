@@ -4,7 +4,7 @@ import { MdEmail } from 'react-icons/md';
 
 function Location() {
     return (
-        <div className='bg-prime-bg-beige'>
+        <div className='bg-prime-bg-beige' id="location">
             <div className='py-40'>
                 <div>
                     <h1 className='text-6xl text-prime-green sub-heading px-96'>Our Location</h1>
@@ -18,11 +18,11 @@ function Location() {
                             <h1 className='text-2xl p-tags text-prime-green mt-8'>Talk to host</h1>
                             <p className='text-xl flex flex-row space-x-4 mt-10'><span><FaLocationArrow /></span><span className=' p-tags'>Egodahahena, Pathegama south, Pathegama South, Talalla 81180</span></p>
                             <p className='text-xl flex flex-row space-x-4 mt-4'><span><FaPhoneAlt /></span><span className='p-tags'>+94 717083469</span></p>
-                            <p className='text-xl flex flex-row space-x-4 mt-4'><span><MdEmail /></span><span className='p-tags'>villabytamarindshade@gmail.com</span></p>
+                            <p className='text-xl flex flex-row space-x-4 mt-4'><span><MdEmail /></span><span className='p-tags'>villa.tamarindshade@gmail.com</span></p>
                         </div>
                         <div className='mt-10 flex flex-row space-x-4'>
-                            <a href='#' className='text-xl px-4 py-2 bg-prime-green rounded-lg text-prime-bg-beige hover:text-prime-green hover:bg-prime-bg-beige hover:border-2 hover:border-prime-green'>Reserve Now</a>
-                            <a href='#' className='text-xl px-4 py-2 bg-prime-green rounded-lg text-prime-bg-beige hover:text-prime-green hover:bg-prime-bg-beige hover:border-2 hover:border-prime-green'>Reviews</a>
+                            <a href='#reserve' className='text-xl px-4 py-2 bg-prime-green rounded-lg text-prime-bg-beige hover:text-prime-green hover:bg-prime-bg-beige hover:border-2 hover:border-prime-green'>Reserve Now</a>
+
                         </div>
 
                     </div>

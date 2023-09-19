@@ -1,9 +1,20 @@
-import React from 'react'
+import React, { useEffect } from 'react';
+import ScrollOut from 'scroll-out';
 
 function CuriousMinds() {
+
+    useEffect(() => {
+        ScrollOut({
+            threshold: .8,
+            once: true,
+        });
+
+        ScrollOut();
+    }, []);
+
     return (
 
-        <div className='flex flex-row justify-center bg-prime-bg-beige'>
+        <div className='flex flex-row justify-center bg-prime-bg-beige' id='curious'>
 
             <div className='flex flex-col py-16 px-96'>
                 <div>
