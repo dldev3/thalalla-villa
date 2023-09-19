@@ -3,19 +3,15 @@ import React from 'react'
 const Reviews = () => {
     return (
         <div className='bg-prime-bg-beige' id="review">
-            <div className='px-96 py-12'>
+            <div className='lg:px-96 py-12 px-8'>
                 <div>
-                    <h1 className='text-6xl text-prime-green sub-heading'>We enjoyed...</h1>
+                    <h1 className='lg:text-5xl text-3xl text-prime-green sub-heading'>We enjoyed...</h1>
                 </div>
 
-                <div className='grid grid-cols-2 gap-4'>
+                <div className='grid lg:grid-cols-2 grid-cols-1 gap-4 mt-6'>
                     <img src='/add/Review01.jpg' className='rounded-2xl' />
                     <img src='/add/Review02.jpg' className='rounded-2xl' />
                 </div>
-
-
-
-
 
             </div>
         </div>

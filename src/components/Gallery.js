@@ -5,12 +5,12 @@ import { Image } from 'antd';
 function Gallery() {
     return (
         <div className='bg-prime-bg-beige' id='gallery'>
-            <div className='flex flex-col py-6 px-96'>
+            <div className='flex flex-col lg:py-6 lg:px-96 py-12 px-8'>
                 <div>
-                    <h1 className='text-6xl text-prime-green sub-heading'>Must see</h1>
+                    <h1 className='lg:text-5xl text-3xl text-prime-green sub-heading'>Must see</h1>
                 </div>
                 <Image.PreviewGroup>
-                    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-16">
+                    <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:mt-16 mt-8">
                         <div class="grid gap-4">
                             <div>
                                 <Image class="h-auto max-w-full rounded-lg" src="/add/gal1.jpg" alt="" />
