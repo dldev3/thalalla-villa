@@ -53,3 +53,11 @@ html {
 [data-scroll="out"] {
     opacity: 0;
 }
+
+.ant-image-mask-info {
+    display: none !important;
+}
+
+.img_:hover {
+    cursor: pointer;
+}

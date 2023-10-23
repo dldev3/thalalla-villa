@@ -22,17 +22,15 @@ function CuriousMinds() {
                 </div>
 
                 <div className='grid lg:grid-cols-2 grid-cols-1 lg:gap-28 gap-14 lg:mt-20 mt-10'>
-                    <div className=''>
-                        <h1 className='text-prime-green lg:text-2xl text-xl p-tags'>Are pets allowed?</h1>
-                        <p className='lg:text-xl text-lg mt-4 p-tags'>No, unfortunately pets are not welcome.</p>
-                    </div>
                     <div>
                         <h1 className='text-prime-green lg:text-2xl text-xl p-tags'>What’s the minimum stay?</h1>
-                        <p className='lg:text-xl text-lg mt-4 p-tags'>The minimum stay at our villas is three nights.</p>
+                        <p className='lg:text-xl text-lg mt-4 p-tags'>At least one night.</p>
+                        <p className='lg:text-xl text-lg mt-4 p-tags'>But we offer discount for three nights and one week.</p>
+                        <p className='lg:text-xl text-lg mt-4 p-tags'>Special rates for over 28 days.</p>
                     </div>
                     <div>
                         <h1 className='text-prime-green lg:text-2xl text-xl p-tags'>Is there Wi-Fi access?</h1>
-                        <p className='lg:text-xl text-lg mt-4 p-tags'>Absolutely! Enjoy complimentary high-speed Wi-Fi in our villa</p>
+                        <p className='lg:text-xl text-lg mt-4 p-tags'>Yes! With wireless connectivity</p>
                     </div>
                     <div>
                         <h1 className='text-prime-green lg:text-2xl text-xl p-tags'>Are meals included?</h1>

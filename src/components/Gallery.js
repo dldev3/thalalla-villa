@@ -13,62 +13,71 @@ function Gallery() {
                     <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:mt-16 mt-8">
                         <div class="grid gap-4">
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/gal1.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/gal1.jpg" alt="gallery-01" />
                             </div>
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/gal2.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/gal2.jpg" alt="gallery" />
                             </div>
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/gal3.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/gal3.jpg" alt="gallery" />
                             </div>
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/gal4.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/gal4.jpg" alt="gallery" />
+                            </div>
+                            <div>
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/amen1.jpg" alt="gallery" />
                             </div>
                         </div>
                         <div class="grid gap-4">
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/gal5.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/gal5.jpg" alt="gallery" />
                             </div>
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/gal6.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/gal9.jpg" alt="gallery" />
                             </div>
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/gal7.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/gal6.jpg" alt="gallery" />
                             </div>
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/gal14.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/gal7.jpg" alt="gallery" />
                             </div>
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/amen6.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/gal14.jpg" alt="gallery" />
+                            </div>
+                            <div>
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/amen6.jpg" alt="gallery" />
                             </div>
 
                         </div>
                         <div class="grid gap-4">
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/gal8.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/gal8.jpg" alt="gallery" />
                             </div>
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/gal9.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/amen9.jpg" alt="gallery" />
                             </div>
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/gal10.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/gal10.jpg" alt="gallery" />
                             </div>
                         </div>
                         <div class="grid gap-4">
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/gal11.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/gal11.jpg" alt="gallery" />
                             </div>
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/gal12.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/gal12.jpg" alt="gallery" />
                             </div>
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/gal13.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/gal13.jpg" alt="gallery" />
                             </div>
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/gal15.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/gal15.jpg" alt="gallery" />
                             </div>
                             <div>
-                                <Image class="h-auto max-w-full rounded-lg" src="/add/amen5.jpg" alt="" />
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/amen5.jpg" alt="gallery" />
+                            </div>
+                            <div>
+                                <Image class="img_ h-auto max-w-full rounded-lg" src="/add/amen7.jpg" alt="gallery" />
                             </div>
 
                         </div>

@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import { Image } from 'antd';
 
 const Reviews = () => {
     return (
@@ -8,9 +9,9 @@ const Reviews = () => {
                     <h1 className='lg:text-5xl text-3xl text-prime-green sub-heading'>We enjoyed...</h1>
                 </div>
 
-                <div className='grid lg:grid-cols-2 grid-cols-1 gap-4 mt-6'>
-                    <img src='/add/Review01.jpg' className='rounded-2xl' />
-                    <img src='/add/Review02.jpg' className='rounded-2xl' />
+                <div className='grid lg:grid-cols-2 grid-cols-1 gap-4 mt-10'>
+                    <Image src='/add/Review01.jpg' className='rounded-2xl' />
+                    <Image src='/add/Review02.jpg' className='rounded-2xl' />
                 </div>
 
             </div>

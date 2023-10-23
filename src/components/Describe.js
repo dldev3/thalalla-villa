@@ -13,13 +13,13 @@ const Describe = () => {
     }, []);
     return (
         <div className='bg-prime-bg-beige' id='describe'>
-            <div className='flex flex-col lg:py-40 lg:px-96 py-12 px-8'>
+            <div className='flex flex-col lg:py-28 lg:px-96 py-12 px-8'>
                 <div className=''>
                     <div>
                         <h1 className='lg:text-5xl text-3xl sub-heading text-prime-green'>Unparalleled Luxuries</h1>
                     </div>
                     <div>
-                        <p className='lg:text-xl text-lg p-tags mt-2'>Welcome to a world of comfort and elegance. Our villa offers unmatched luxuries of star class at affordable price tag. You will be amazed by its view of the nature, dusk and dawn under our sweet tamarind tree. The house is at the front of beautiful paddy field surrounded by large baby cinnamon plantation</p>
+                        <p className='lg:text-xl text-lg p-tags lg:mt-4 mt-2'>Welcome to a world of comfort and elegance. Our villa offers unmatched luxuries of star class at affordable price tag. You will be amazed by its view of the nature, dusk and dawn under our sweet tamarind tree. The house is at the front of beautiful paddy field surrounded by large baby cinnamon plantation</p>
                     </div>
                     <div className='grid lg:grid-cols-3 grid-cols-1 gap-4 lg:mt-10 mt-4'>
                         <Image src='/add/green1.jpg' className='rounded-2xl' />

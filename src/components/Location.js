@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaLocationArrow, FaPhoneAlt } from 'react-icons/fa';
-import { lgEmail } from 'react-icons/md';
+import { MdEmail } from 'react-icons/md';
 
 function Location() {
     return (
@@ -11,14 +11,14 @@ function Location() {
                 </div>
                 <div className='flex lg:flex-row flex-col space-x-12 mt-12 lg:p-10'>
                     <div className='lg:w-7/12'>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9081.65332932356!2d80.62830079719183!3d5.9575138508796455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae1396c038891eb%3A0x893d3c82bfa4d177!2sVilla%20by%20Tamarind%20Shade!5e0!3m2!1sen!2slk!4v1693464124504!5m2!1sen!2slk" className='w-full h-96' allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <img className='w-full h-full object-cover' src='/add/map.jpg' alt='map-talalla' />
                     </div>
                     <div className='lg:w-5/12'>
                         <div className=''>
-                            <h1 className='lg:text-2xl text-xl p-tags text-prime-green mt-8'>Talk to host</h1>
-                            <p className='lg:text-xl text-lg flex flex-row space-x-4 mt-10'><span><FaLocationArrow /></span><span className=' p-tags'>Egodahahena, Pathegama south, Pathegama South, Talalla 81180</span></p>
-                            <p className='lg:text-xl text-lg flex flex-row space-x-4 mt-4'><span><FaPhoneAlt /></span><span className='p-tags'>+94 717083469</span></p>
-                            <p className='lg:text-xl text-lg flex flex-row space-x-4 mt-4'><span><lgEmail /></span><span className='p-tags'>villa.tamarindshade@gmail.com</span></p>
+                            <h1 className='lg:text-2xl text-xl p-tags text-prime-green mt-8'>Talk to host: For better plans | Reservations</h1>
+                            <p className='lg:text-xl text-lg flex flex-row space-x-4 mt-10'><span><FaLocationArrow /></span><span className=' p-tags'>Villa by tamarind shade, Pathegama South, Talalla, Koattagoda 81180</span></p>
+                            <p className='lg:text-xl text-lg flex flex-row space-x-4 mt-4'><span><FaPhoneAlt /></span><span className='p-tags'>+94 717083469 | +94 712263959 </span></p>
+                            <p className='lg:text-xl text-lg flex flex-row space-x-4 mt-4'><span><MdEmail /></span><span className='p-tags'>villa.tamarindshade@gmail.com</span></p>
                         </div>
                         <div className='lg:mt-10 mt-6 flex flex-row space-x-4'>
                             <a href='#reserve' className='lg:text-xl text-lg px-4 py-2 bg-prime-green rounded-lg text-prime-bg-beige hover:text-prime-green hover:bg-prime-bg-beige hover:border-2 hover:border-prime-green'>Reserve Now</a>
