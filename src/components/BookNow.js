@@ -14,7 +14,7 @@ const BookNow = () => {
     return (
         <div className='bg-prime-bg-beige' id='reserve'>
             <div className='flex flex-col justify-center items-center lg:py-40 lg:px-96 py-12 px-8'>
-                <h1 className='lg:text-5xl text-3xl text-prime-green sub-heading text-center'>Reservations</h1>
+                <h1 className='lg:text-4xl text-3xl text-prime-green sub-heading text-center'>Reservations</h1>
                 <p className='mt-6 lg:text-xl text-lg text-center max-w-lg p-tags'>
                     Don’t just fantasize about it – make it happen! Book your dream vacation villa today and start counting down the days to blissful relaxation.
                 </p>

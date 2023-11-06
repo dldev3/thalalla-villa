@@ -6,7 +6,7 @@ const Reviews = () => {
         <div className='bg-prime-bg-beige' id="review">
             <div className='lg:px-96 py-12 px-8'>
                 <div>
-                    <h1 className='lg:text-5xl text-3xl text-prime-green sub-heading'>We enjoyed...</h1>
+                    <h1 className='lg:text-4xl text-3xl text-prime-green sub-heading'>We enjoyed...</h1>
                 </div>
 
                 <div className='grid lg:grid-cols-2 grid-cols-1 gap-4 mt-10'>

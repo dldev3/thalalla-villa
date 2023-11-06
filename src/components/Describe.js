@@ -16,7 +16,7 @@ const Describe = () => {
             <div className='flex flex-col lg:py-28 lg:px-96 py-12 px-8'>
                 <div className=''>
                     <div>
-                        <h1 className='lg:text-5xl text-3xl sub-heading text-prime-green'>Unparalleled Luxuries</h1>
+                        <h1 className='lg:text-4xl text-3xl sub-heading text-prime-green'>Unparalleled Luxuries</h1>
                     </div>
                     <div>
                         <p className='lg:text-xl text-lg p-tags lg:mt-4 mt-2'>Welcome to a world of comfort and elegance. Our villa offers unmatched luxuries of star class at affordable price tag. You will be amazed by its view of the nature, dusk and dawn under our sweet tamarind tree. The house is at the front of beautiful paddy field surrounded by large baby cinnamon plantation</p>
@@ -28,7 +28,7 @@ const Describe = () => {
 
                     </div>
                     <div>
-                        <h1 className='lg:text-5xl text-3xl sub-heading mt-24 text-prime-green'>Astonishing Amenities</h1>
+                        <h1 className='lg:text-4xl text-3xl sub-heading mt-24 text-prime-green'>Astonishing Amenities</h1>
                         <p className='lg:text-xl text-lg p-tags mt-4'>Our amneties are personally selected to give you a feel like its' your second home. our canapy beds in master bedroom and in Gold room are hung with curtains to make your sleep much more comfortable. We offer you personalized toilet with hot water attached to each room. Our Platinum room is Air-conditioned but you just need to pay the energy cost only if you need. </p>
                     </div>
                     <div className='grid lg:grid-cols-3 grid-cols-2 gap-4 lg:mt-10 mt-4'>
@@ -49,12 +49,12 @@ const Describe = () => {
 
                     <div className='grid lg:grid-cols-2 grid-cols-1 lg:gap-8 gap-4 lg:mt-40 mt-16'>
                         <div className=''>
-                            <h1 className='lg:text-5xl text-3xl sub-heading text-prime-green'>Nature-Inspired Reservations</h1>
+                            <h1 className='lg:text-4xl text-3xl sub-heading text-prime-green'>Nature-Inspired Reservations</h1>
                             <p className='lg:text-xl text-lg p-tags mt-4'>Book our eco-sensitive villa, offering a seamless blend of modern luxury, natural beauty, and sustainability.</p>
                         </div>
 
                         <div className=''>
-                            <h1 className='lg:text-5xl text-3xl sub-heading text-prime-green'>Easy Booking & Unforgettable Experiences</h1>
+                            <h1 className='lg:text-4xl text-3xl sub-heading text-prime-green'>Easy Booking & Unforgettable Experiences</h1>
                             <p className='lg:text-xl text-lg p-tags mt-4'>With our intuitive booking system, securing your stay in paradise has never been easier. Experience the extravagance of a lifetime!</p>
                         </div>
                     </div>

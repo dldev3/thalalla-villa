@@ -7,7 +7,7 @@ function Location() {
         <div className='bg-prime-bg-beige' id="location">
             <div className='py-40'>
                 <div>
-                    <h1 className='lg:text-5xl text-3xl text-prime-green sub-heading lg:px-96 px-8'>Our Location</h1>
+                    <h1 className='lg:text-4xl text-3xl text-prime-green sub-heading lg:px-96 px-8'>Our Location</h1>
                 </div>
                 <div className='flex lg:flex-row flex-col space-x-12 mt-12 lg:p-10'>
                     <div className='lg:w-7/12'>

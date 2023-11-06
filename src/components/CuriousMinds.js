@@ -18,7 +18,7 @@ function CuriousMinds() {
 
             <div className='flex flex-col lg:px-96 py-12 px-8'>
                 <div>
-                    <h1 className='lg:text-5xl text-3xl text-prime-green sub-heading'>Curious Minds</h1>
+                    <h1 className='lg:text-4xl text-3xl text-prime-green sub-heading'>Curious Minds</h1>
                 </div>
 
                 <div className='grid lg:grid-cols-2 grid-cols-1 lg:gap-28 gap-14 lg:mt-20 mt-10'>
